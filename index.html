@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,27 +10,41 @@
 
     <title>Pedaços de Ouro</title>
 </head>
+
 <body>
     <header>
         <nav>
-            <a class="logo" href="/">Pedaços de Ouro</a>
+            <a class="logo" href="/">
+                <img class="image-logo" src="source/images/logo.gif" alt="logo">
+                Pedaços de Ouro
+            </a>
             <div class="mobile-menu">
                 <div class="line1"></div>
                 <div class="line2"></div>
                 <div class="line3"></div>
             </div>
             <ul class="nav-list">
-                <li><a href="/">a</a></li>
-                <li><a href="/">a</a></li>
-                <li><a href="/">a</a></li>
-                <li><a href="/">a</a></li>
-                <li><a href="/">a</a></li>
+                <li><a href="#bolos">Bolos</a></li>
+                <li><a href="/">Quem somos</a></li>
+                <li><a href="/">Contato</a></li>
             </ul>
         </nav>
     </header>
-    <main>
-        
+    <main id="bolos">
+        <section class="painel">
+            <h1 class="title">Nossos Bolos</h1>
+            <div class="image bolo1 show"></div>
+            <div class="image bolo2"></div>
+            <div class="image bolo3"></div>
+            <div class="image bolo4"></div>
+            <div class="image bolo5"></div>
+            <div class="image bolo6"></div>
+            <a href="#" id="btn-prev" class="arrow btn-prev">voltar</a>
+            <a href="#" id="btn-next" class="arrow btn-next">avançar</a>
+        </section>
     </main>
     <script src="source/js/mobile-navbar.js"></script>
+    <script src="source/js/image-slider.js"></script>
 </body>
+
 </html>
