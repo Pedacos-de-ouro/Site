@@ -15,4 +15,7 @@ Trabalho feito para aula de Análise e Desenvolvimento de Sistemas na Uninove Ca
 <a href="https://br.pinterest.com/Pedacos_de_Ouro/_created/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Pedaços_de_Ouro-05122A?style=flat&logo=pinterest" alt="instagram"/>
 </a>
+<a href="https://pedacos-de-ouro.github.io/Site/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Pedaços_de_Ouro-05122A?style=flat&logo=html5" alt="instagram"/>
+</a>
 </p>
