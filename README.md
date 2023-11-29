@@ -4,7 +4,7 @@ Trabalho feito para aula de Análise e Desenvolvimento de Sistemas na Uninove Ca
 </p>
 <br>
 
-## Contato
+## Links
 <p align="left" style="background:yellow">
 <a href="https://www.facebook.com/profile.php?id=61554303890809&mibextid=ZbWKwL" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Pedaços_de_Ouro-05122A?style=flat&logo=facebook" alt="linkedin"/>
