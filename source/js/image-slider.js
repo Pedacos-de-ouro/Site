@@ -1,25 +1,25 @@
-const images = document.querySelectorAll('.image')
+const images = document.querySelectorAll('.image-painel')
 const arrowPrev = document.getElementById('btn-prev')
 const arrowNext = document.getElementById('btn-next')
 let currentImage = 0
 
-function hideImage() {
-    images.forEach(image => {
-        image.classList.remove('show')
+function hideImages() {
+    images.forEach(imagem => {
+        imagem.classList.remove('show')
     })
 }
 
-function showImage() {
+function showImages(){    
     images[currentImage].classList.add('show')
 }
 
 arrowNext.addEventListener('click', function () {
-    if (currentImage !== images.length - 1) {
-        currentImage++
+    if(currentImage !== images.length - 1) {
+        currentImage++        
     }
 
-    hideImage()
-    showImage()
+    hideImages()
+    showImages()
 })
 
 arrowPrev.addEventListener('click', function () {
@@ -27,6 +27,6 @@ arrowPrev.addEventListener('click', function () {
         currentImage--
     }
 
-    hideImage()
-    showImage()
+    hideImages()
+    showImages()
 })
