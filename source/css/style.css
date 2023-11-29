@@ -14,7 +14,6 @@
     padding: 0;
     font-family: 'Nunito', sans-serif;
     box-sizing: border-box;
-    z-index: 0;
 }
 
 body {
@@ -143,7 +142,6 @@ main .painel {
     align-items: center;
     height: 700px;
     position: relative;
-    z-index: -1;
 }
 
 @media(max-width: 900px) {
