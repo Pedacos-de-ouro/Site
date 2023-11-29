@@ -1,8 +1,10 @@
 # Pedaços de Ouro
+<p>
+Trabalho feito para aula de Análise e Desenvolvimento de Sistemas na Uninove Campus Memorial.
+</p>
 <br>
 
 ## Contato
-
 <p align="left" style="background:yellow">
 <a href="https://www.facebook.com/profile.php?id=61554303890809&mibextid=ZbWKwL" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Pedaços_de_Ouro-05122A?style=flat&logo=facebook" alt="linkedin"/>
